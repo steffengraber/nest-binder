@@ -1,0 +1,5 @@
+name: nest-simulator-environment
+channels:
+  - conda-forge
+dependencies:
+  - nest-simulator=*=mpi_openmpi*
