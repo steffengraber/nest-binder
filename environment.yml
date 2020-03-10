@@ -3,4 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - matplotlib 
-  - nest-simulator=*=mpi_openmpi*
+  - nest-simulator=2.18.0=mpi_openmpi*
