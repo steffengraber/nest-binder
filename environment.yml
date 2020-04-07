@@ -1,6 +1,7 @@
 name: nest-simulator-environment
 channels:
   - conda-forge
+  - steffengraber
 dependencies:
   - matplotlib
-  - nest-simulator=2.20.0=mpi_openmpi*
+  - nest
