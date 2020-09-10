@@ -2,6 +2,9 @@ name: nest-simulator-environment
 channels:
   - conda-forge
   - steffengraber
+  - pyviz
 dependencies:
   - matplotlib
   - nest
+  - holoviews
+  - bokeh
